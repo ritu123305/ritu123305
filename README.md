@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ritu kumari</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate QA from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu123305&label=Profile%20views&color=0e75b6&style=flat" alt="ritu123305" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritu123305" alt="ritu123305" /></a> </p>
 
-- 🌱 I’m currently learning **Working with project**
+- 🌱 I’m currently learning **Working with project in Solitaire Infosys**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Software Testing**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Software Testing**
 
 - 📫 How to reach me **ritu.rana6262@gmail.com**
 
