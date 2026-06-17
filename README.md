@@ -1,39 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ritu kumari</h1>
-<h3 align="center">A passionate QA from India</h3>
+# Hi 👋, I'm Ritu Kumari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritu123305&label=Profile%20views&color=0e75b6&style=flat" alt="ritu123305" /> </p>
+## 🚀 QA Engineer | Manual & Automation Testing
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritu123305" alt="ritu123305" /></a> </p>
+Passionate QA Engineer with knowledge of Manual Testing and Automation Testing. I enjoy finding bugs, writing effective test cases, and building reliable Selenium automation frameworks using Java and TestNG. I am continuously improving my testing and automation skills through hands-on projects.
 
-- 🌱 I’m currently learning **Working with project in Solitaire Infosys**
+---
 
-- 🤝 I’m looking for help with **Software Testing**
+## 👩‍💻 About Me
 
-- 💬 Ask me about **Software Testing**
+- 🌱 Learning Automation Testing with Selenium WebDriver
+- 💻 Strong understanding of Manual Testing concepts
+- 📝 Experience writing Test Cases and Test Scenarios
+- 🐞 Passionate about Bug Reporting and Quality Assurance
+- 🚀 Currently improving Java, Selenium, TestNG, SQL, and GitHub skills
+- 📚 Always eager to learn new testing tools and technologies
 
-- 📫 How to reach me **ritu.rana6262@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ritu kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritu kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/ritsadmiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritsadmiral" height="30" width="40" /></a>
-</p>
+## 🛠️ Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
+### Programming
+- Java
+- HTML5
+- Basic CSS
 
+### Automation Testing
+- Selenium WebDriver
+- TestNG
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritu123305&show_icons=true&locale=en&layout=compact" alt="ritu123305" /></p>
+### Manual Testing
+- Test Case Design
+- Test Scenario Design
+- Bug Reporting
+- Defect Life Cycle
+- Functional Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Retesting
+- Exploratory Testing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritu123305&show_icons=true&locale=en" alt="ritu123305" /></p>
-- 👋 Hi, I’m @ritu123305
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### SDLC & STLC
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
 
-<!---
-ritu123305/ritu123305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tools
+- Eclipse IDE
+- Visual Studio Code
+- Git
+- GitHub
+- JIRA
+- MySQL
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 OrangeHRM Automation
+- Automated Login Module
+- Selenium WebDriver with Java
+- TestNG Framework
+- Page Object Model (POM)
+
+### 🔹 User Management Testing
+- Test Scenarios
+- Test Cases
+- Bug Reports
+- Requirement Analysis
+
+### 🔹 Manual Testing Projects
+- Test Plan
+- Test Cases
+- Test Scenarios
+- Defect Reports
+- RTM (Requirement Traceability Matrix)
+
+---
+
+## 📚 Automation 
+
+- Selenium Advanced Concepts
+- TestNG Framework
+- Page Object Model (POM)
+- Data Driven Testing
+- Hybrid Framework
+- Maven
+- Jenkins
+- API Testing (Postman)
+- SQL
+- Git & GitHub
+
+---
+
+## 🎯 Career Objective
+
+Seeking an opportunity as a QA Engineer where I can apply my Manual and Automation Testing skills, contribute to software quality, and continue learning modern testing tools and frameworks.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ritu-kumari-b327072a7
+- Email: ritukumari825269@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
